@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my current Resume!
 
-You can use the [editor on GitHub](https://github.com/demetriosss/Main/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+You're welcome to download a printable .pdf via one of the links below:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Link](url) and ![Image](src)
+```
+
 
 ### Markdown
 
