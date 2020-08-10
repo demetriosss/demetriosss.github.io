@@ -4,7 +4,7 @@
 
 You're welcome to download a printable .pdf via one of the links below:
 
-[Link](https://docs.google.com/document/d/e/2PACX-1vSzcyFvWIQwUgKocQXb9Yqc7sgnbXXAJ-lzVLPsB_necESh0uCXAU7M3lUnGFp_A6oT-ku9BiLmEhqn/pub) 
+[Link](https://docs.google.com/document/d/e/2PACX-1vRzybAA8gs5Ke5q_gasTxVJr9-D5h5gQ40ATc8iQnBd0buo-TV5lQPA4TxeKSgWtT8mXmsws1B3v0l8/pub) 
 and ![Image](src)
 ```
 
