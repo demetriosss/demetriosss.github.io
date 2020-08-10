@@ -1,8 +1,11 @@
-## Welcome to my current Resume!
+
+# Demetrios Stavracos
+## D@Demetrioss.com (646) 397-9666
 
 You're welcome to download a printable .pdf via one of the links below:
 
-[Link](url) and ![Image](src)
+[Link](https://docs.google.com/document/d/e/2PACX-1vSzcyFvWIQwUgKocQXb9Yqc7sgnbXXAJ-lzVLPsB_necESh0uCXAU7M3lUnGFp_A6oT-ku9BiLmEhqn/pub) 
+and ![Image](src)
 ```
 
 
