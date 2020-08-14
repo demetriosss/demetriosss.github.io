@@ -15,11 +15,11 @@ https://github.com/demetriosss/<br>
 
 Work Experience
 
-Web Designer/Developer AOArt January 2016 to February 2020
+_Web Designer/Developer AOArt January 2016 to February 2020_
 
 -Both created and maintained websites with varying platforms, including but not limited to: Dreamweaver, HTML5, CSS, JavaScript, and cloud based.
 
-Third Key/Manager MAC Cosmetics September 2009 to January 2017
+_Third Key/Manager MAC Cosmetics September 2009 to January 2017_
 
 -Duties included but not limited to retail sales management, scheduling, data entry with Microsoft word, training with Microsoft powerpoint, class training to teach both clients and associate employees new product use.
 
