@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+# Demetrios Stavracos
+**IT Professional with working knowledge of Web development and design.**
 
-You can use the [editor on GitHub](https://github.com/demetriosss/Main/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Saint Petersburg, FL 33707 D@demetrioss.com 6463979666<br>
+www.demetrioss.com<br>
+www.linkedin.com/in/demetriossss<br>
+https://github.com/demetriosss/<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Work Experience
 
-- Bulleted
-- List
+Work Experience
 
-1. Numbered
-2. List
+_Web Designer/Developer AOArt January 2016 to February 2020_
 
-**Bold** and _Italic_ and `Code` text
+-Both created and maintained websites with varying platforms, including but not limited to: Dreamweaver, HTML5, CSS, JavaScript, and cloud based.
 
-[Link](url) and ![Image](src)
-```
+_Third Key/Manager MAC Cosmetics September 2009 to January 2017_
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+-Duties included but not limited to retail sales management, scheduling, data entry with Microsoft word, training with Microsoft powerpoint, class training to teach both clients and associate employees new product use.
 
-### Jekyll Themes
+## Skills
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/demetriosss/Main/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Mac OS (10+ years)
+- Linux & Command Line
+- Windows (10+ years)
+- PowerShell
+- Microsoft Office
+- Google Suite
+- IT Support (5 years)
+- Customer Service (10+ years)
+- HTML5
+- Illustrator
+- CSS
+- JavaScript
+- Python
+- IDEs (Visual Studio/JetBrains
+- Anroid
+- Java
+- REST
+- Google Cloud Console
+- APIs
+- Web Development
+- Git and GitHub
+- Atom
+- Photoshop
+- Web Design
+- Dreamweaver
+- SaaS
 
-### Support or Contact
+## Certifications and Licenses
+**Google IT Support Professional January 2020 to Present**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This certification detailed skills including: Binary, networking, HTTP/IP, IT security, operating systems, Linux, IOS, CLI, Powershell, and Google Cloud Services.
+
+## Education
+Bachelor's in IT & Visual Communication University of Phoenix-Online Campus - Orlando, FL January 2006 to January 2009
+
+To download a .pdf of this resume click on the following link:<br>
+[DemetriosStavracosResume.pdf](https://docs.google.com/document/d/e/2PACX-1vRzybAA8gs5Ke5q_gasTxVJr9-D5h5gQ40ATc8iQnBd0buo-TV5lQPA4TxeKSgWtT8mXmsws1B3v0l8/pub) 
