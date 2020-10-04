@@ -9,11 +9,7 @@ https://github.com/demetriosss/<br>
 
 
 
-
-
 ### Work Experience
-
-Work Experience
 
 _Web Designer/Developer AOArt January 2016 to February 2020_
 
