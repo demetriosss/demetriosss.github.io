@@ -6,13 +6,7 @@ www.demetrioss.com<br>
 www.linkedin.com/in/demetriossss<br>
 https://github.com/demetriosss/<br>
 
-
-
-
-
 ### Work Experience
-
-Work Experience
 
 _Web Designer/Developer AOArt January 2016 to February 2020_
 
@@ -58,6 +52,3 @@ This certification detailed skills including: Binary, networking, HTTP/IP, IT se
 
 ## Education
 Bachelor's in IT & Visual Communication University of Phoenix-Online Campus - Orlando, FL January 2006 to January 2009
-
-To download a .pdf of this resume click on the following link:<br>
-[DemetriosStavracosResume.pdf](https://docs.google.com/document/d/e/2PACX-1vRzybAA8gs5Ke5q_gasTxVJr9-D5h5gQ40ATc8iQnBd0buo-TV5lQPA4TxeKSgWtT8mXmsws1B3v0l8/pub) 
