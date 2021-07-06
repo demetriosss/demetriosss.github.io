@@ -1,60 +1,35 @@
-
-# Demetrios Stavracos
-**IT Professional with working knowledge of Web development and design.**
-
-Saint Petersburg, FL 33707 D@demetrioss.com 6463979666<br>
-www.demetrioss.com<br>
-www.linkedin.com/in/demetriossss<br>
-https://github.com/demetriosss/<br>
-
-
-
-### Work Experience
-
-_Web Designer/Developer AOArt January 2016 to February 2020_
-
--Both created and maintained websites with varying platforms, including but not limited to: Dreamweaver, HTML5, CSS, JavaScript, and cloud based.
-
-_Third Key/Manager MAC Cosmetics September 2009 to January 2017_
-
--Duties included but not limited to retail sales management, scheduling, data entry with Microsoft word, training with Microsoft powerpoint, class training to teach both clients and associate employees new product use.
+### Demetrios Stavracos<br>
+**IT Support Professional with working knowledge of Web development and design.**<br>
+Tallahassee, FL 32301
 
 ## Skills
+Mac OS, Windows, Windows Server, Azure, Databases, Cloud servers, Linux, Command line, Object oriented programming, Functional programming, Automation scripting, Imaging, Refreshing, Networking, IP, TCP, DNS, LAN, WAN, Active Directory, Technical Problem Solving, Microsoft Word, Power Point, Excel, Acrobat, HTML, CSS, JavaScript, Graphic Design, Illustrator, Web Development, Adobe Creative Cloud Suite
 
-- Mac OS (10+ years)
-- Linux & Command Line
-- Windows (10+ years)
-- PowerShell
-- Microsoft Office
-- Google Suite
-- IT Support (5 years)
-- Customer Service (10+ years)
-- HTML5
-- Illustrator
-- CSS
-- JavaScript
-- Python
-- IDEs (Visual Studio/JetBrains
-- Anroid
-- Java
-- REST
-- Google Cloud Console
-- APIs
-- Web Development
-- Git and GitHub
-- Atom
-- Photoshop
-- Web Design
-- Dreamweaver
-- SaaS
+## Education 
+## Bachelors of Computer Science
+University of Phoenix-Online Campus
+Tallahassee, FL <br>
+Presently Attending
 
-## Certifications and Licenses
-**Google IT Support Professional January 2020 to Present**
+## IT & Visual Communications AA
+University of Phoenix-Online Campus <br>
+January 2006 to January 2009 
 
-This certification detailed skills including: Binary, networking, HTTP/IP, IT security, operating systems, Linux, IOS, CLI, Powershell, and Google Cloud Services.
+## Criminal Justice Information Systems Limited Access
+Florida Department of Highway Safety and Motor Vehicles<br>
+March 2021
 
-## Education
-Bachelor's in IT & Visual Communication University of Phoenix-Online Campus - Orlando, FL January 2006 to January 2009
+## Google IT Support Professional
+January 2020 <br>
+This certification detailed skills including: Binary, networking, HTTP/IP, IT security, operating systems, Linux, IOS, CLI, PowerShell, and Google Cloud Services.
 
-To download a .pdf of this resume click on the following link:<br>
-[DemetriosStavracosResume.pdf](https://docs.google.com/document/d/e/2PACX-1vRzybAA8gs5Ke5q_gasTxVJr9-D5h5gQ40ATc8iQnBd0buo-TV5lQPA4TxeKSgWtT8mXmsws1B3v0l8/pub) 
+### Work Experience
+_Distributed Computer System Specialist Florida DEP March 2021_<br>
+Managing and maintaining database information, customer computers, networked computers, teleworking customers, troubleshooting, documenting and updating current software and hardware assets for 175 parks and across department divisions.<br>
+Problem assessment, customer service, strong attention to detail, system administration, imaging, refreshing, and distribution post-procurement.  <br>Wiping and destroying post-mortem systems.  Current working knowledge of Desktop Central for hardware and software analysis, Asset Explorer for hardware location and distribution, Cherwell for documentation, journaling and ticketing, Active Directory for proper OU management, Teams, and Outlook.<br>
+
+_Web Designer/Developer AOArt January 2014 to Present_ <br>
+Both created and maintained databases working with spreadsheets, Excel, Google Sheets, SQL, requiring extreme attention to detail and data entry. Creates specialized and unique ad campaigns for clients with Google’s suite, ads, tag manager and AdSense, based on analytics. Search engine optimization based on local and national trending keyword searches. Increased online presence 60-200 percent with missing terms, additions, tag relocation, keyword optimization, ads, and social media creation and optimization. Design with Adobe technology, including Creative Suite, Photoshop, Lightroom, Illustrator, and InDesign. Version control with Git, GitHub and database management and application deployment with Heroku and other PaaS. <br>
+
+_Third Key Manager MAC Cosmetics September 2009 to January 2017_<br> 
+Duties included but not limited to retail sales management, scheduling, data entry with Microsoft Excel, training with Microsoft power point, financial management and planning based on previous yearly means and current budget forecast. <br>
